@@ -10,7 +10,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Gabriel-Hen/ebook-dio/blob/main/output/ebook_injecao_dependencia.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Gabriel-Hen/ebook-dio/blob/master/output/ebook_injecao_dependencia.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
